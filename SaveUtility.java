@@ -6,7 +6,7 @@ public class SaveUtility {
     public static void saveHotels(List<Hotel> hotels) {
         try (PrintWriter writer = new PrintWriter("Sorted.txt")) {
             for (Hotel hotel : hotels) {
-                writer.println(hotel.getName() + "," + hotel.getStarRating() + "," + hotel.getPrice()
+                writer.println(hotel.getHotelName() + "," + hotel.getStarRating() + "," + hotel.getHotelPrice()
                 );
             }
             System.out.println("Hotel information saved to Sorted.txt");
