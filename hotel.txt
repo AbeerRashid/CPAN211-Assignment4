@@ -1,0 +1,20 @@
+Fairmont Royal York,5,329.99
+Shangri La Toronto,5,489.50
+Ritz Carlton Toronto,5,519.00
+Four Seasons Toronto,5,599.99
+Marriott Downtown,4,249.99
+Hilton Garden Inn,4,189.50
+Delta Hotels Toronto,4,229.99
+Sheraton Centre,4,269.00
+Novotel North York,3,159.99
+Holiday Inn Express,3,149.99
+Best Western Plus,3,129.50
+Comfort Inn Airport,3,119.99
+Westin Harbour Castle,4,289.99
+Hyatt Regency Toronto,4,279.50
+Chelsea Hotel Toronto,3,169.99
+Park Hyatt Toronto,5,624.00
+Residence Inn Downtown,3,179.99
+DoubleTree by Hilton,4,219.99
+Radisson Blu Toronto,4,259.99
+Courtyard Marriott,3,139.99
