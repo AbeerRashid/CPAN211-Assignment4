@@ -4,7 +4,8 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class Main {
+public class Main extends Application {
+
     @Override
     public void start(Stage primaryStage) {
 
@@ -18,5 +19,8 @@ public class Main {
         System.out.println("Save button clicked");
         // ====================
     }
-
+    
+    public static void main(String[] args) {
+        launch(args);
+    }
 }
