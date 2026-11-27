@@ -15,8 +15,9 @@ public class Main extends Application {
         // Save button
         Button btnSave = new Button("Save");
         // Save button event handler
-        btnSave.setOnAction(e -> {SaveUtility.saveHotels(hotels); });
-        System.out.println("Save button clicked");
+        btnSave.setOnAction(e -> {SaveUtility.saveHotels(hotels); 
+            System.out.println("Save button clicked");
+        });
         // ====================
     }
     

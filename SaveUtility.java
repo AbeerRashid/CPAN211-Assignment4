@@ -11,8 +11,7 @@ public class SaveUtility {
             }
             System.out.println("Hotel information saved to Sorted.txt");
         } catch (IOException e) {
-            System.out.println("Error saving file.");
-            e.printStackTrace();
+            System.out.println("Error saving file: " + e.getMessage());
         }
     }
 }
